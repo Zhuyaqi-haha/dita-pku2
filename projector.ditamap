@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="zh-CN">
+    <title xml:lang="zh-CN">投影仪使用说明</title>
+    <topicref href="how_to_connect_your_ipad_wiht_airplay.dita">
+        <topicref href="what_is_airplay.dita"/>
+        <topicref href="mirror_your_ipad_with_airplay.dita"/>
+        <topicref href="reference.dita"/>
+        <topicref href="unable_to_mirror.dita"/>
+    </topicref>
+    <topicref href="how_to_hdmi.dita">
+        <topicref href="what_is_hdmi.dita"/>
+        <topicref href="connecting_with_hdmi.dita"/>
+    </topicref>
+    <topicref href="VGA%E6%8E%A5%E5%8F%A3.dita">
+        <topicref href="vga.dita"/>
+        <topicref href="connecting_vga.dita"/>
+    </topicref>
+</map>

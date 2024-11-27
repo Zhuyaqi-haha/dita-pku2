@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="connecting_vga">
+    <title>connecting vga</title>
+    <shortdesc>介绍早期模拟信号的<xref href="vga.dita">VGA</xref>接口连接iPad</shortdesc>
+    <taskbody>
+        <prereq id="prereq_lsp_zby_ldc">准备Type-c转VGA的接口<p/><image
+                href="image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241123093802.png" width="200"
+                height="200" id="image_ndm_mcy_ldc"/></prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>将VGA插头与转接头相连</cmd>
+                <info>注意插头正反</info>
+                <stepresult><image
+                        href="image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241123094659.jpg"
+                        width="400" height="400" id="image_zx3_bxw_mdc"/></stepresult>
+            </step>
+            <step>
+                <cmd>将连接好的转接口与iPad的type-C接口相连</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="connecting_with_hdmi.dita"/>
+        <link href="mirror_your_ipad_with_airplay.dita"/>
+    </related-links>
+</task>
